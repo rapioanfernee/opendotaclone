@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/opendotaclone/precache-manifest.d8cc8f29d61ac92bbd4f5d02a50863e6.js"
+  "/opendotaclone/precache-manifest.a15aca738e84ef51bc4f18f30d5aaa58.js"
 );
 
 self.addEventListener('message', (event) => {

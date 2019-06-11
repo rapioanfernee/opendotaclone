@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68a4b94df14ac506d41400102612b0cb",
+    "revision": "fd5e5339786d513531470056b4234c52",
     "url": "/opendotaclone/index.html"
   },
   {
