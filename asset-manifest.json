@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/opendotaclone/static/css/main.35730e85.chunk.css",
+    "main.js": "/opendotaclone/static/js/main.de7e9376.chunk.js",
+    "main.js.map": "/opendotaclone/static/js/main.de7e9376.chunk.js.map",
+    "runtime~main.js": "/opendotaclone/static/js/runtime~main.9102f9bc.js",
+    "runtime~main.js.map": "/opendotaclone/static/js/runtime~main.9102f9bc.js.map",
+    "static/css/2.f41ad63a.chunk.css": "/opendotaclone/static/css/2.f41ad63a.chunk.css",
+    "static/js/2.12822af0.chunk.js": "/opendotaclone/static/js/2.12822af0.chunk.js",
+    "static/js/2.12822af0.chunk.js.map": "/opendotaclone/static/js/2.12822af0.chunk.js.map",
+    "index.html": "/opendotaclone/index.html",
+    "precache-manifest.d8cc8f29d61ac92bbd4f5d02a50863e6.js": "/opendotaclone/precache-manifest.d8cc8f29d61ac92bbd4f5d02a50863e6.js",
+    "service-worker.js": "/opendotaclone/service-worker.js",
+    "static/css/2.f41ad63a.chunk.css.map": "/opendotaclone/static/css/2.f41ad63a.chunk.css.map",
+    "static/css/main.35730e85.chunk.css.map": "/opendotaclone/static/css/main.35730e85.chunk.css.map"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,QAAW,CACX,SACF,CAEA,KAEE,wBACF","file":"main.35730e85.chunk.css","sourcesContent":["* {\r\n  margin: 0px;\r\n  padding: 0;\r\n}\r\n\r\nbody {\r\n\r\n  background-color: rgb(36, 58, 77);\r\n}\r\n"]}
