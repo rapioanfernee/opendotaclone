@@ -2,11 +2,11 @@
 
 Here are some of the screen captures of the web application.
 
-![Screenshot](https://imgur.com/zczTPg9)
+![Screenshot](https://i.imgur.com/zczTPg9.jpg)
 
 Another screen capture of the web application on mobile view
 
-![Screenshot](https://imgur.com/PQJCO25)
+![Screenshot](https://i.imgur.com/PQJCO25.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
